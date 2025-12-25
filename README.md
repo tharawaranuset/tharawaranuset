@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%20Thara&fontSize=35)
 
 ## 👋 About Me
-🎓 Computer Engineering Student (Expected May 2027)
+🎓 Computer Engineering Student (Expected May 2027)  
 🤖 Interested in **AI / Machine Learning / Data Science**  
 💻 Love coding & problem solving  
 🌱 Currently learning: Deep Learning, Python, ML Algorithms  
