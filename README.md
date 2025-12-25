@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **tharawaranuset/tharawaranuset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%20Computer%20Engineering%20Student&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%Thara&fontSize=35)
 
 ## 👋 About Me
-🎓 Computer Engineering Student  
+🎓 Computer Engineering Student (Expected May 2027)
 🤖 Interested in **AI / Machine Learning / Data Science**  
 💻 Love coding & problem solving  
 🌱 Currently learning: Deep Learning, Python, ML Algorithms  
@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts,git)
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tharawaranuset&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharawaranuset&layout=compact&theme=tokyonight)
 
 ---
 
