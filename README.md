@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%Thara&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%20Thara&fontSize=35)
 
 ## 👋 About Me
 🎓 Computer Engineering Student (Expected May 2027)
