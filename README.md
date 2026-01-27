@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 ## 🛠 Skills
 **Languages**
+
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts)
 
 **Tools**
+
 ![My Skills](https://skillicons.dev/icons?i=git)
 
 ---
