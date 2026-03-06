@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=git)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,docker)
 
 ---
 
